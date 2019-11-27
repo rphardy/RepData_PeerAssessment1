@@ -1,3 +1,7 @@
+## Please find submitted files here:
+* .Rmd, .md, .html files are in this directory. 
+* Figures can be found in PA1_template_files/figure-html
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
